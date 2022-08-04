@@ -19,7 +19,7 @@ June vs December Temperatures
 
 
 
-#####Summary
+##### Summary
 The temprature for December erractically different than the temprature of June. Surfing and Ice Cream sale would survive in December. The mean temprature 
 between December and June differs by four degrees. For example, December average temprature is about 72F. This a great weather for a surfing and/or ice cream business. 
 
