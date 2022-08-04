@@ -11,3 +11,8 @@ This project dive into enhance data storage and retrival to support the tempretu
 
 ##### Outcome 
 
+June vs December Temperatures 
+
+
+<img width="733" alt="Jun vs Dec Temp" src="https://user-images.githubusercontent.com/106555873/182738940-930df7c3-31ca-4f06-aefb-e7d00bbf22a6.png">
+
