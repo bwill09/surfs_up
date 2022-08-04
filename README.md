@@ -1,8 +1,11 @@
 ### surfs_up
 
 ##### Resourses : 
+
 Data: hawaii.sqlite
+
 Fils: SurfUp_Challenge.ipynb
+
 Tools: Jupyter Notebook, SQLite, and SQLAlchemy
 
 #### Overview 
