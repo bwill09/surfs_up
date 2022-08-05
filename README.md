@@ -20,13 +20,15 @@ There are few more queries I'd like to do for more clearity on weather condition
 
 (a) I'd like to examine tempratrue statistics on record by station each month. I believe this will aid to decide geograhical where in Oahu to set-up potential shop. 
 
+(b) Reviewing other significant typed of beach surfing weather. For example, wave, wind, precipitation etc. It'd be clever to consider thing like sunbathing vs surfing. It would be smart to not only consider temprature as a key to establishing the business
+
 June vs December Temperatures 
 
 <img width="733" alt="Jun vs Dec Temp" src="https://user-images.githubusercontent.com/106555873/182738940-930df7c3-31ca-4f06-aefb-e7d00bbf22a6.png">
 
-Station Temps 
+Station Tempature 
 
 <img width="873" alt="station" src="https://user-images.githubusercontent.com/106555873/182988901-0088ff91-b540-4565-adf0-0195177d6cf0.png">
 
 
-(b) Reviewing other significant typed of beach surfing weather. For example, wave, wind, precipitation etc. It'd be clever to consider thing like sunbathing vs surfing. It would be smart to not only consider temprature as a key to establishing the business
+
